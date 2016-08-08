@@ -1,0 +1,32 @@
+_repo: Heathen-Slaves-and-Christian-Rulers_12818
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bushnell, Katharine C. (Katharine Caroline)
+    aliases:
+    - Bushnell, Katharine Caroline
+    - Bushnell, Katherine Caroline
+    birthdate: 1855
+    deathdate: 1946
+    gutenberg_agent_id: '4645'
+    url: http://www.gutenberg.org/2009/agents/4645
+  - agent_name: Andrew, Elizabeth Wheeler
+    birthdate: 1845
+    deathdate: 1917
+    gutenberg_agent_id: '4644'
+    url: http://www.gutenberg.org/2009/agents/4644
+description: ''
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prostitution -- China -- Hong Kong'
+- !lcc 'HQ'
+- GITenberg
+title: Heathen Slaves and Christian Rulers
+url: http://www.gutenberg.org/ebooks/12818
