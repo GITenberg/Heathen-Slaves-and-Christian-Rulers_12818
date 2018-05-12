@@ -1,5 +1,8 @@
 _repo: Heathen-Slaves-and-Christian-Rulers_12818
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Bushnell, Katharine C. (Katharine Caroline)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '4644'
     url: http://www.gutenberg.org/2009/agents/4644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12818#Heathen-Slaves-and-Christian-Rulers
 gutenberg_issued: '2004-07-05'
 gutenberg_type: Text
 identifiers:
